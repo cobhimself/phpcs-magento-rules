@@ -5,7 +5,7 @@
 	-->
     <description>CoB's Magento coding standards</description>
 
-	<rule ref="Generic.ControlStructures.InlineControlStructure "/>
+	<rule ref="Generic.ControlStructures.InlineControlStructure"/>
     <!-- Use Unix newlines -->
     <rule ref="Generic.Files.LineEndings">
         <properties>
