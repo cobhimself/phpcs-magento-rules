@@ -32,7 +32,7 @@
 	<rule ref="PEAR.Functions.FunctionDeclaration"/>
 	<rule ref="PEAR.Functions.ValidDefaultValue"/>
 	<rule ref="PEAR.NamingConventions.ValidClassName"/>
-	<rule ref="PEAR.WhiteSpace.ScopeClosingBrace "/>
+	<rule ref="PEAR.WhiteSpace.ScopeClosingBrace"/>
 	<rule ref="Squiz.Classes.LowercaseClassKeywords"/>
 	<rule ref="Squiz.Commenting.DocCommentAlignment"/>
 	<rule ref="Squiz.Commenting.FunctionComment"/>
