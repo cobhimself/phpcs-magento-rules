@@ -39,7 +39,7 @@
 	<rule ref="Squiz.ControlStructures.ElseIfDeclaration"/>
 	<rule ref="Squiz.ControlStructures.SwitchDeclaration"/>
 	<rule ref="Squiz.Scope.MethodScope"/>
-	<rule ref="Squiz.Sniff.SelfMemberReference"/>
+	<rule ref="Squiz.Classes.SelfMemberReference"/>
 	<rule ref="Squiz.WhiteSpace.LogicalOperatorSpacing"/>
 	<rule ref="Squiz.WhiteSpace.OperatorSpacing"/>
 	<rule ref="Zend.Files.ClosingTag"/>
