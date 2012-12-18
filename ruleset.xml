@@ -35,7 +35,7 @@
 	<rule ref="PEAR.WhiteSpace.ScopeClosingBrace"/>
 	<rule ref="Squiz.Classes.LowercaseClassKeywords"/>
 	<rule ref="Squiz.Commenting.DocCommentAlignment"/>
-	<rule ref="Squiz.Commenting.FunctionComment"/>
+	<!--<rule ref="Squiz.Commenting.FunctionComment"/>-->
 	<rule ref="Squiz.ControlStructures.ElseIfDeclaration"/>
 	<rule ref="Squiz.ControlStructures.SwitchDeclaration"/>
 	<rule ref="Squiz.Scope.MethodScope"/>
