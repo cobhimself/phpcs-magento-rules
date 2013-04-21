@@ -12,3 +12,9 @@ The `ruleset.xml` file should be placed in a "Mage" folder under your PHPCS Stan
 ```
 cd $(dirname `which phpcs`)/../lib/php/PHP/CodeSniffer/Standards
 ```
+
+If that does not work, you could find the location by calling:
+
+```
+cd $(dirname `which phpcs`)/../share/php/PHP/CodeSniffer/Standards
+```
